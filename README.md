@@ -1,1 +1,15 @@
-# aplikasi-presensi-with-Java-programming-leanguaa
+# Soal 
+Deskripsi presensiya : Di masa pandemi ini, setiap perguruan tinggi di Indonesia harus melakukan kuliah secara daring. 
+Toba University yang merupakan salah satu perguruan tinggi ternama juga melaksanakan kuliah 
+secara daring. Toba University melaksanakan perkuliahan melalui aplikasi Boom meets. Dosen - dosen di kampus tersebut biasanya melakukan absensi secara manual ke aplikasi presensi dengan melihat akun siapa saja yang sudah bergabung ke aplikasi Boom meets. Metode absensi 
+seperti ini memiliki beberapa kelemahan. Salah satu kekurangannya adalah mahasiswa meninggalkan room di pertengahan perkuliahan. Hal ini membuat hampir seluruh dosen kewalahan. Untungnya aplikasi boom meets dapat mencatat email siapa saja yang mengikuti meeting, pukul berapa akun tersebut bergabung dan meninggalkan pertemuan, dan durasi (dalam menit) berada di dalam meeting tersebut. Anda sebagai mahasiswa yang teladan memiliki ide untuk mengolah data presensi dan mencari tahu siapa saja mahasiswa yang sering bolos. 
+Mahasiswa yang  menghadiri <70% pertemuan di setiap semester akan di umumkan dan diberi pembinaan.
+
+Tugas anda dan kelompok anda adalah mengembangkan sistem untuk mengembangkan sistem untuk menampilkan statistik absensi mahasiswa. Tampilkan juga dalam semester, siapa saja mahasiswa dengan presensi paling sedikit, mahasiswa dengan presensi paling banyak,dsb
+
+# Soal yang dikembangkan
+Sistem ini yang dapat di akses oleh Dosen, Mahasiswa, dan Admin di Toba University. Sistem ini akan mengolah  data  presensi  seluruh  mahasiswa  melalui  data  mahasiswa  yang  diambil  dari  yang mengikuti atau Join Boom meet.
+
+Untuk masuk ke system, User (Mahasiswa dan Dosen ) harus Login terlebih dahulu, setelah login User dapat mencari presensi mahasiswa dengan memberi Keyword “NIM” ,pada Menu Informasi Waktu Persesi dimana pada menu ini menampilkan waktu mulai dan waktu berakhirnya meeting disetiap sesinya, pada menu Daftar Hadir Mahasiswa, dimana dosen dapat melihat seluruh daftar hadir mahasiswa sedangkan pada menu ini mahasiswa hanya bisa melihat daftar hadir nya sendiri , dan setelah itu akan menampilkan statistic presensi mahasiswa tersebut meliputi, Nama,  NIM,  Durasi  bergabung  pada  meeting  disetiap  pertemuan.  Dan  terdapat  menu  lainnya seperti  menu  Total     Presensi  mahasiswa dimana dosen dapat melihat seluruh total presensi mahasiswa sedangkan pada menu ini mahasiswa hanya bisa melihat total presensi nya sendiri,  dimana  menu  ini  menampilkan  total  keseluruhan mahasiswa   yang   mengikuti   pertemuan,   dan   jika   mahasiswa   yang   presensinya   <70%   akan ditampilkan juga pada menu tersebut dan akan diberi pembinaan, dan terdapat menu yang menampilkan total presensi urutan dari yang terkecil sampai yang terbesar dan begitu juga sebalik nya terbesar sampai terkecil, dan menu Logout untuk keluar dari system.
+
+Dengan melakukan tahapan-tahapan tersebut maka menghasilkan system presensi mahasiswa, sehingga dosen merasa terbantu untuk mengambil hasil absensi mahasiswa untuk pelaporan kelengkapan data penilaian.

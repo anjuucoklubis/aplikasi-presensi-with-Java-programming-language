@@ -1,0 +1,6 @@
+Mencari dan menampilkan daftar presensi dengan mengetik keyword NIM
+Menampilkan informasi waktu presensi 
+Membuat class akun 
+Menampilkan data dosen     
+Menampilkan DataPresensiController 
+Menampilkan data mahasiswa  
